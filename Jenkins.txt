@@ -1,0 +1,6 @@
+https://jenkins.io/zh/doc/ Jenkins中文文档网站
+http://localhost:8080/
+
+https://www.jianshu.com/p/2e281a7f5d46 详细使用教程
+https://blog.csdn.net/xukai0110/article/details/80637902 Git使用方法
+https://www.jianshu.com/p/f40a7ebdbcca?utm_campaign Git使用教程
